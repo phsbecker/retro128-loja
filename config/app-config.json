@@ -9,7 +9,7 @@
   "blackFriday": {
     "ativa": true,
     "fim": "2026-11-27T23:59:59-03:00",
-    "intervaloContadorSegundos": 1,
+    "intervaloContadorSegundos": 1000,
     "promocoes": {
       "ps2-01": { "percentual": 30 },
       "ps2-02": { "percentual": 20 },
